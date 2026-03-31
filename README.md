@@ -1,5 +1,5 @@
 # Bitlocker-Decryption-Checker
-Checks the status of all volumes while, you will have to start decrypting Bitlocker drives by going into Windows Settings though.
+Checks the current decryption status of all volumes on your computer.
 
 # Instructions
 Search "Device encryption settings" inside your settings, and begin the decryption process.
