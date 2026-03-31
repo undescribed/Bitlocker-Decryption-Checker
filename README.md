@@ -13,3 +13,6 @@ Run the command `./bitlockerchecker.ps1` inside Powershell to start the script
 
 
 The script will continue running as long as one drive is still decrypting.
+
+
+![Alt text](https://github.com/undescribed/Bitlocker-Decryption-Checker/blob/main/Preview.png "a title")
